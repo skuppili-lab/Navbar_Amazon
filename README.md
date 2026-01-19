@@ -64,5 +64,5 @@ Integrate with backend services
 Author & Contact
 Author: Sravan Reddy
 Role: Engineering Student
-GitHub: https://github.com/your-username
+GitHub: https://github.com/skuppili-labs
 Email: skuppili@student.gitam.edu
